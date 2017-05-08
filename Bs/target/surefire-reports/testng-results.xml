@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BrowserstackwithCI.Bs.AppTest" duration-ms="8" started-at="2017-05-08T09:59:43Z" finished-at="2017-05-08T09:59:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8" started-at="2017-05-08T09:59:43Z" finished-at="2017-05-08T09:59:43Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- BrowserstackwithCI.Bs.AppTest -->
+</testng-results>
